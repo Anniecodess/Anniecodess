@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhi Kulshreshtha</h1>
-<h3 align="center">Freelance designer-turned-developer crafting clean UIs, smart tools, and aesthetic tech.”</h3>
+<h3 align="center">💻 “I design, I develop, I create — the creative side of IT with a techy twist.”</h3>
 
 <img align="right" alt="code" width="400" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MW5ieG81OHM5dTY2cm5xbWZsa2hpZXdpZTUxYTZ3a3RoMTB5MzhxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.webp">
 
